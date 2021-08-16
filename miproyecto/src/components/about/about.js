@@ -12,7 +12,7 @@ export default class about extends Component {
       <img className="profile-pic" src="images/antonio.jpg" alt="imagen de perfil" />
     </div>
     <div className="nine columns main-col">
-      <h2>Sobre mi persona</h2>
+      <h2>Sobre mi </h2>
       <p>
         Soy una persona apasionada con la tecnología, sobre todo el ámbito de desarrollo de Aplicaciones Web Responsive, soporte técnico
         redes y bases de datos SQL Y NoSQL.
