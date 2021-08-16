@@ -1,8 +1,6 @@
 /*
 =====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
+
 =====================================================================
 
    TOC:
@@ -139,6 +137,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    position: fixed;
    left: 0;
    top: 0;
+   
 }
 .opaque { background-color: #333; }
 
