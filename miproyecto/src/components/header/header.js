@@ -89,8 +89,8 @@ const Header = () => {
 
             <div className="row banner">
               <div className="banner-text">
-                <h1 className="responsive-headline">Saludos Visitante!!</h1>
-                <h3> <span> <strong>Bienvenido a mi portafolio virtual.</strong> Mi nombre es Carlos Antonio Salas Caballero soy un apasionado con la Tecnología y Desarrollo Web. </span> <span>Soy egresado de la Universidad Nacional de Costa Rica</span>. <span>A continuación encontraras un poco de información sobre mi </span> <a className="smoothscroll" href="#about">Sigue bajando y verás más </a>
+                <h1 className="responsive-headline">Saludos!!</h1>
+                <h3> <span> <strong>Bienvenido a mi portafolio.</strong> Mi nombre es Carlos Antonio Salas Caballero soy un apasionado con la Tecnología y Desarrollo Web. </span> <span>Soy egresado de la Universidad Nacional de Costa Rica</span>. <span>A continuación encontraras un poco de información sobre mi </span> <a className="smoothscroll" href="#about">Sigue bajando y verás más </a>
                   <a className="smoothscroll" href="#about">Sobre mi</a>.</h3>
                 <hr />
                 <ul className="social">
